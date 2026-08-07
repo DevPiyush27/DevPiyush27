@@ -14,7 +14,7 @@ Welcome to my GitHub! I’ve just kicked off my **B.Tech journey**, specializing
 | **Languages (Learning / Active)** | Python, C/C++ |
 | **Libraries & Data Tools** | NumPy, Pandas, |
 | **Core Topics** | Data Structures & Algorithms, Basic Machine Learning |
-| **Tools & Platforms** | Git, GitHub, VS Code,  |
+| **Tools & Platforms** | Git, GitHub, VS Code, |
 
 ---
 
