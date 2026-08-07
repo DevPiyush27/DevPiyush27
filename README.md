@@ -12,9 +12,9 @@ Welcome to my GitHub! I’ve just kicked off my **B.Tech journey**, specializing
 | Category | Technologies & Skills |
 | :--- | :--- |
 | **Languages (Learning / Active)** | Python, C/C++ |
-| **Libraries & Data Tools** | NumPy, Pandas, Matplotlib |
+| **Libraries & Data Tools** | NumPy, Pandas, |
 | **Core Topics** | Data Structures & Algorithms, Basic Machine Learning |
-| **Tools & Platforms** | Git, GitHub, VS Code, Jupyter Notebooks |
+| **Tools & Platforms** | Git, GitHub, VS Code,  |
 
 ---
 
