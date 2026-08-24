@@ -1,5 +1,5 @@
 ## Hi there 👋
-## 🚀 Public Profile / Repository README
+## 🚀 Public Profile
 
 ### Hi there! I'm a 1st-Year B.Tech Student (AI & ML) 👋
 
