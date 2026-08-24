@@ -5,7 +5,7 @@
 
 Welcome to my GitHub! I’ve just kicked off my **B.Tech journey**, specializing in **Artificial Intelligence & Machine Learning**. I'm passionate about building smart software, mastering foundational computer science concepts, and exploring practical AI applications.
 
-# 💫 About Me:
+# About Me:
 🎓 Academic Status: B.Tech — Semester 1 / 1st Year<br>🔭 Currently Building: Personal automation scripts and beginner-friendly ML models<br>📚 Currently Studying: Python programming, discrete math, and core computer science fundamentals<br>🤝 Open To: Learning from open-source contributors and collaborating on beginner AI projects
 
 
