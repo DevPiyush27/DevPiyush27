@@ -20,6 +20,11 @@ Welcome to my GitHub! I’ve just kicked off my **B.Tech journey**, specializing
 ![](https://streak-stats.demolab.com/?user=DevPiyush27&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=DevPiyush27&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+<h2>🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DevPiyush27&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+</p>
 
 
 ---
