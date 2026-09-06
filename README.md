@@ -66,15 +66,6 @@ and exploring practical applications of Artificial Intelligence.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=DevPiyush27&theme=tokyonight&no-bg=true&no-frame=true" />
-</a>
-
-</div>
 
 ---
 
