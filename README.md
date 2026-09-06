@@ -49,6 +49,8 @@ and exploring practical applications of Artificial Intelligence.
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) 
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-000000.svg?style=flat&logo=davinciresolve&logoColor=white)
+![GIMP](https://img.shields.io/badge/GIMP-000000.svg?style=flat&logo=gimp&logoColor=white)
 
 ### ⚙️ Tools & Platforms
 
@@ -63,9 +65,6 @@ and exploring practical applications of Artificial Intelligence.
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white)
 
 </div>
-
----
-
 
 ---
 
