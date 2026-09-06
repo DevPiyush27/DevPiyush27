@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9bed279e-6d7e-4eeb-b5bf-85be2efa9694" width="640">
+</p>
 
 ### Hi there! I'm a 1st-Year B.Tech Student (AI & ML) 👋
 
