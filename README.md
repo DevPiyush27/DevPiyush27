@@ -39,7 +39,7 @@ and exploring practical applications of Artificial Intelligence.
 
 ### 🤖 AI & Data
 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) 
+
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white)
 
 ### 🎨 Creative Tools
